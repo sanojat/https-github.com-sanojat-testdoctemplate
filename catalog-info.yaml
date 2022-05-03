@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "MydocTest"
+  description: "MydocTest Refference"
+  annotations:
+    github.com/project-slug: sanojat/https://github.com/sanojat/testdoctemplate
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "sanojat"

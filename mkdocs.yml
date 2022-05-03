@@ -1,0 +1,8 @@
+site_name: "MydocTest"
+site_description: "MydocTest Refference"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
